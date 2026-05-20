@@ -1,0 +1,16 @@
+CSMA/CA SIM�LASYON RAPORU - 2026-03-11 22:34:30.038471
+========================================
+[59] Node_0: Başarılı iletim.
+[79] Node_3: Başarılı iletim.
+[103] Node_2: Başarılı iletim.
+[130] Node_0: Başarılı iletim.
+[174] Node_3: Başarılı iletim.
+[200] Node_2: Başarılı iletim.
+[226] Node_0: Başarılı iletim.
+[247] Node_3: Başarılı iletim.
+[292] Node_2: Başarılı iletim.
+[319] Node_0: Başarılı iletim.
+[360] Node_2: Başarılı iletim.
+[388] Node_0: Başarılı iletim.
+[427] Node_2: Başarılı iletim.
+[497] Node_0: Başarılı iletim.
